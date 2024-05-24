@@ -43,5 +43,22 @@ DELETE
 - Sử dụng Postman để kiểm tra hiệu suất API bằng cách đo thời gian phản hồi.
 ![alt text](image-15.png)
 
+API: https://random-data-api.com/api/v2/beers
 
+Tạo một sản phẩm mới
+Trường hợp kiểm thử thành công:
+Tên: Tạo sản phẩm mới thành công
+Đầu vào:
+{
+    "brand": "Delirium",
+    "name": "Founders Kentucky Breakfast",
+    "style": "India Pale Ale",
+    "hop": "Galena",
+    "yeast": "3638 - Bavarian Wheat",
+    "malts": "Victory",
+    "ibu": "16 IBU",
+    "alcohol": "7.1%",
+    "blg": "7.1°Blg"
+}
+Kỳ vọng: Trả về mã trạng thái 400 và thông báo lỗi chi tiết.
 
