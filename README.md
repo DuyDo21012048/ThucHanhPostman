@@ -2,6 +2,7 @@
 
 1. Kiểm thử API cơ bản:
 - Tạo một yêu cầu GET mới trong Postman.
+![alt text](image.png)
 - Tạo một yêu cầu GET mới trong Postman.
 - Nhập URL của API mà bạn muốn kiểm thử.
 - Gửi yêu cầu và kiểm tra mã trạng thái HTTP và nội dung phản hồi.
