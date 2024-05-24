@@ -11,8 +11,20 @@
 ![alt text](image-2.png)
 
 - Thử nghiệm với các yêu cầu HTTP khác (POST, PUT, DELETE).
+POST
+![alt text](image-3.png)
+![alt text](image-4.png)
+
+PUT
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+DELETE
+![alt text](image-7.png)
+![alt text](image-8.png)
 
 - Sử dụng các biến để lưu trữ và truy cập dữ liệu trong Postman.
+
 - Tạo bộ sưu tập dữ liệu để quản lý nhiều yêu cầu và biến.
 - Xác minh tính hợp lệ của JSON bằng công cụ JSON validator trong Postman.
 
